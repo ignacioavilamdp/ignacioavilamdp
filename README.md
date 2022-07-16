@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ignacio Avila (aka MurdokMDQ)</h1>
+<h1 align="center">Hi 👋, I'm Ignacio Avila </h1>
 <h3 align="center">Electrical Engineer & Software Engineering student</h3>
 
 - 📫 How to reach me **ignacioavilamdp@gmail.com**
